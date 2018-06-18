@@ -75,7 +75,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>JSONSerializable</apexClass>
-        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Lead_Methods</apexClass>
