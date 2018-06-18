@@ -135,7 +135,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Entrevista__c.CLL_Google_ID__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
