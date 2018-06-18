@@ -31,7 +31,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CLL_crearSedeCtrl_TEST</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Compra_Methods</apexClass>
@@ -43,7 +43,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Edicion_Methods_TEST</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Entrevista_Methods</apexClass>

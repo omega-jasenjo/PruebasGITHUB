@@ -15,7 +15,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CLL_CalendarCtrlApx</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>CLL_CalendarCtrlApx_TEST</apexClass>
@@ -43,7 +43,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Edicion_Methods_TEST</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Entrevista_Methods</apexClass>
