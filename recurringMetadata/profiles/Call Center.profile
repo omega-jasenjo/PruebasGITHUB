@@ -55,7 +55,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>GoogleCalendarEvent</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>GoogleCalendarEvent_TEST</apexClass>
