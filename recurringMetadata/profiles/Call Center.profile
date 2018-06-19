@@ -5,6 +5,26 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+     <applicationVisibilities>
+        <application>ISDI_Call_Center_Lightning</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>ISDI_Call_Center_Lightning</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+      <applicationVisibilities>
+        <application>ISDI_Call_Center_Lightning</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>  <applicationVisibilities>
+        <application>ISDI_Call_Center_Lightning</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
     <classAccesses>
         <apexClass>AccountHandler</apexClass>
         <enabled>false</enabled>
