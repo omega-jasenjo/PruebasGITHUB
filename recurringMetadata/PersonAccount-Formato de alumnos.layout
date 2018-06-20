@@ -43,13 +43,18 @@
                 <behavior>Readonly</behavior>
                 <field>Numero_de_compras__c</field>
             </layoutItems>
-            <layoutItems>
+             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Idioma__pc</field>
+                <field>PersonBirthdate</field>
             </layoutItems>
+          
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>DNI__c</field>
+            </layoutItems>
+              <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>Total_Asistencias__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
@@ -59,10 +64,7 @@
                 <behavior>Edit</behavior>
                 <field>Nacionalidad__pc</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>PersonBirthdate</field>
-            </layoutItems>
+           
             <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>N_mero_de_matriculas__c</field>
@@ -112,6 +114,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>LIN_Public_profile_url__pc</field>
+            </layoutItems>
+              <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Idioma__pc</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>

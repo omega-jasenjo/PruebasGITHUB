@@ -51,7 +51,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Entrevista_Methods_TEST</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>GoogleCalendarEvent</apexClass>
